@@ -1,0 +1,5 @@
+Error för pixel_constraint: TypeError, på grund av att värdena måste vara integers.
+
+Error för generator_from_image: IndexError, på grund av att indexet inte får vara längre än listan.
+
+Error för combine_images: TypeError och IndexError, för att fånga upp de undantag som kastas tidigare.
